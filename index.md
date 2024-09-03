@@ -1,27 +1,27 @@
 ---
-title: "Example Web Page"
+title: "Additive Manufacturing Portfolio"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Home-Banner-Image.jpeg
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Rebecca Hurwitz is exploring their interest in materials science and design through additive manufacturing projects at Vanderbilt University. They are fascinated by opportunities to pursue clean energy and energy storage solutions through electrochemistry research."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/pump1.png
+    alt: "Syringe Pump"
+    title: "Custom Syringe Pump Prototype"
+    excerpt: "Ejects liquid at a user-specified flow rate."
+  - image_path: assets/img/GDE image higher res.jpg
+    alt: "Gas diffusion electrolyzer"
+    title: "Gas Diffusion Electrolysis"
+    excerpt: "Fundamental research on emulsion electrodeposition to improve gas diffusion electrolyzers."
+  - image_path: assets/img/light charged slide 1 pic.png
+    title: "Light-Charged Oxygen Batteries"
+    excerpt: "Analyzed optical properties of materials to extend battery lifetimes."
 ---
 
 {% include feature_row %}
+
 
