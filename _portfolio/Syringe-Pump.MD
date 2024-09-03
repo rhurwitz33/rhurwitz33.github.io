@@ -40,12 +40,10 @@ header:
 | Front Barrel Stabilizer |
 
 # Arduino Code
-[Arduino Code](https://github.com/rhurwitz33/rhurwitz33.github.io/blob/44a8f7b178433f448ab2431ac1ab4e5498513ae2/_drafts/steppermotorfinal.ino "Arduino Code Syringe Pump")
+[Stepper Motor Control](https://github.com/rhurwitz33/rhurwitz33.github.io/blob/44a8f7b178433f448ab2431ac1ab4e5498513ae2/_drafts/steppermotorfinal.ino "Arduino Code Syringe Pump")
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e430f512e2512051b03?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Operating Instructions
 Install one or both of the syringes onto the bases of the syringe pump. Control the flow rate of the pump with the setSpeed function in the Arduino program. In order to trigger the plunger to collect liquid, push the large button. Push the toggle button once to eject the liquid from the syringe. Push the toggle button again to stop the motion of the syringe. After the LED indicates that the syringe pump is empty, push the large button to retract the syringe pump. 
-
-{% include gallery caption="Syringe Pump Gallery" %}
