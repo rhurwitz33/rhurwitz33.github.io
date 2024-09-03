@@ -1,31 +1,57 @@
 ---
 
-title: "About David Florian"
+title: "About Rebecca Hurwitz"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Rebecca Hurwitz is seeking research opportunities in electrochemical processes and materials.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * B.E. in Chemical Engineering, expected May 2026
+
+## Experience
+* University of Illinois Urbana-Champaign, Summer 2024
+  * REU Student, Materials Research Science and Engineering Center
+     * Gave a Lightning Talk at the 2024 STEM Career Exploration and Symposium and presentation at the MRSEC Symposium on the optical properties of cathode materials for photo-ionic technologies.
+
+* Purdue University, Summer 2023
+  * REU Student, Center for Innovative and Strategic Transformation of Alkane Resources
+     * Presented a poster at the Purdue Summer Undergraduate Research Symposium on developing efficient gas diffusion electrodes with emulsion electrodeposition for sustainable electrochemical energy storage and hydrocarbon transformation.
+     * Wrote several research-based assignments culminating in a technical paper with guidance from a faculty mentor, Professor Brian Tackett, and a graduate student mentor.
+
+* Stony Brook University, Summer 2021
+   * Student, Garcia Research Scholar Program
+      * Assisted a Ph.D student in performing in silico research on the interactions of polylactic acid with the SARS-CoV-2 spike glycoprotein under varying temperatures. 
+      * Drafted an academic paper and performed literature review in a collaborative setting.
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+### Laboratory
+* X-Ray Reflectivity and X-Ray Diffraction
+* UV-Vis Spectroscopy
+* Voltammetry techniques
 
+### Digital Fabrications tools:
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
 
-## Press 
+### Other
+* SAChE Introduction to Process Safety Certificate
+* Python (2 yrs)
+* Microsoft Office Suite
+* R Project for Statistical Computing
+* OriginLab
+* MATLAB
+* Aspen
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
-
-<img src="/assets/img/Hurwitz-ProfPic.jpg" alt="Rebecca Hurwitz" style="width:200px;"/>
+## Awards
+* Dean’s list (F22, S23, F23, S23)
+---
+title: "Syringe Pump"
+excerpt: "Ejects liquid at a user-specified flow rate for medical applications."
+header:
+  image: /assets/img/pump1.png
+  teaser: /assets/img/pump2.jpg
+   
+---
