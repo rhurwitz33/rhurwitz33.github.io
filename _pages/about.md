@@ -45,13 +45,5 @@ Rebecca Hurwitz is seeking research opportunities in electrochemical processes a
 * MATLAB
 * Aspen
 
-## Awards
+### Awards
 * Dean’s list (F22, S23, F23, S23)
----
-title: "Syringe Pump"
-excerpt: "Ejects liquid at a user-specified flow rate for medical applications."
-header:
-  image: /assets/img/pump1.png
-  teaser: /assets/img/pump2.jpg
-   
----
