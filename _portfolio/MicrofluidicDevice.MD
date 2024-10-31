@@ -37,10 +37,13 @@ Why are resin-printed molds coated with parylene prior to casting the
 PDMS? 
 
 # Final Device
-![Microfluidic device](assets/img/ufluidicdevice.jpg)
-![Pinch Flow Fractionation](https://img.youtube.com/vi/--6JoKgJHCo/0.jpg)](https://www.youtube.com/watch?v=--6JoKgJHCo)
+![Microfluidic device](rhurwitz33.github.io/assets/img
+/ufluidicdevice.jpg)
+[![Pinch Flow Fractionation](https://img.youtube.com/vi/--6JoKgJHCo/0.jpg)](https://www.youtube.com/watch?v=--6JoKgJHCo)
 
 # Works Cited
 1. Yamada, M., Nakashima, M. & Seki, M. Pinched Flow Fractionation:  Continuous Size Separation of Particles Utilizing a Laminar Flow Profile in a Pinched Microchannel. Anal. Chem. 76, 5465–5471 (2004).
 2. Suresh, S. et al. Connections between single-cell biomechanics and human disease states: gastrointestinal cancer and malaria. Acta Biomaterialia 1, 15–30 (2005).
 3. Manz, A. et al. Planar chips technology for miniaturization and integration of separation techniques into monitoring systems: Capillary electrophoresis on a chip. Journal of Chromatography A 593, 253–258 (1992).
+
+
