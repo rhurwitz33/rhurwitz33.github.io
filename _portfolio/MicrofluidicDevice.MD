@@ -25,7 +25,7 @@ A similarly designed microfluidic sorter of a smaller scale could be used to sor
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a47b8a186735a857aa?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Device Mold
-![Microfluidic device resin mold](https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/ufluidicmold1.jpg)
+![Microfluidic device resin mold](https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/ufluidicmold1.jpg?raw=true)
 
 # Device Construction
 Instructions for how to go from the 3D printed mold to the final device
@@ -37,7 +37,7 @@ Why are resin-printed molds coated with parylene prior to casting the
 PDMS? 
 
 # Final Device
-![Microfluidic device](https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/ufluidicdevice.jpg)
+![Microfluidic device](https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/ufluidicdevice.jpg?raw=true)
 [![Pinch Flow Fractionation](https://img.youtube.com/vi/--6JoKgJHCo/0.jpg)](https://www.youtube.com/watch?v=--6JoKgJHCo)
 
 # Works Cited
