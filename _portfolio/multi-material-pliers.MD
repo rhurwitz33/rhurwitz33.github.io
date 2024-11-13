@@ -3,7 +3,7 @@ title: "Multi-Material Pliers"
 excerpt: "Grips and picks up through-hole resistors."
 header:
   image: assets/img/pliersiso.jpg
-  teaser: assets/img/pliersiso.jpg
+  teaser: assets/img/plierstop.jpg
    
 ---
 
@@ -37,13 +37,7 @@ Multi-material pliers were printed with a flexible TPU 95 spring component in th
 
 
 # Image Gallery
-![Multi-Material Pliers Iteration Handles](https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierhandles.jpg?raw=true)
-![Multi-Material Pliers Iteration Jaws](https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierjaws.jpg?raw=true)
-![Multi-Material Pliers Spring Component Iterations](https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/pliersspring.jpg?raw=true)
-![Multi-Material Pliers Assembled Isometric View](https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/pliersiso.jpg?raw=true)
-![Multi-Material Pliers Assembled Top View](https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierstop.jpg?raw=true)
-<img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierhandles.jpg?raw=true" width="20%"></img> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierjaws.jpg?raw=true" width="20%"></img> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/pliersspring.jpg?raw=true" width="20%"></img> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/pliersiso.jpg?raw=true" width="20%"></img> <img 
-src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierstop.jpg?raw=true" width="20%"></img> <img 
+<img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierhandles.jpg?raw=true" width="23%"></img> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierjaws.jpg?raw=true" width="23%"></img> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/pliersspring.jpg?raw=true" width="23%"></img> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/pliersiso.jpg?raw=true" width="23%"></img> <img 
 
 # Working Pliers
 <iframe src="https://giphy.com/embed/ysJ7p5gBbMAyuVxpMP" width="310" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ysJ7p5gBbMAyuVxpMP">via GIPHY</a></p>
