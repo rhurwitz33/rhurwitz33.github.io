@@ -8,7 +8,7 @@ header:
 ---
 
 # Applications of Print-in-Place Multi-Material Parts
-
+Through-hole resistors are challenging to move by hand due to their small size. This project aims to produce multi-material pliers for efficient movement of through-hole resistors. 
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a47a05bc57c57b4090?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
@@ -16,16 +16,14 @@ header:
 # Pliers Design and Rapid Prototyping Process
 Multi-material pliers were printed with a flexible TPU 95 spring component in the center and rigid PLA handles and jaws for print-in-place rapid prototyping. Dovetail connections were used to easily assemble the handles and jaws with a press fit onto the spring component. The spring component was created with 7.5% rectillinear infill in SuperSlicer. The spring component has 4 perimeter layers to ensure sturdy connections with the handles and jaws.    
 
-# Product Specifications
+| Product Specifications |          |
+|------------------------|----------|
 | Jaw length             | 60 mm    |
 | Jaw capacity           | 5.383 mm |
 | Jaw depth              | 8 mm     |
 | Spring component width | 31.3 mm  |
 | Handle length          | 95.3 mm  |
-
-
-# Print Settings
-|                     | Prusa i3    | Voron 300 - 0.6 mm nozzle | Voron 300 - 0.4 mm nozzle |
+| Print Settings | Prusa i3    | Voron 300 - 0.6 mm nozzle | Voron 300 - 0.4 mm nozzle |
 |---------------------|-------------|---------------------------|---------------------------|
 | Material            | TPU 95      | PLA                       | PLA                       |
 | Bottom Solid Layers | 0           | 3                         | 3                         |
