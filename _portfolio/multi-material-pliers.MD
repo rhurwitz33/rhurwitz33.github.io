@@ -42,6 +42,7 @@ Multi-material pliers were printed with a flexible TPU 95 spring component in th
 ![Multi-Material Pliers Spring Component Iterations](https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/pliersspring.jpg?raw=true)
 ![Multi-Material Pliers Assembled Isometric View](https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/pliersiso.jpg?raw=true)
 ![Multi-Material Pliers Assembled Top View](https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierstop.jpg?raw=true)
+<img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierhandles.jpg?raw=true" width="13%"></img> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierjaws.jpg?raw=true" width="13%"></img> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/pliersspring.jpg?raw=true" width="13%"></img> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/pliersiso.jpg?raw=true" width="13%"></img> <img 
 
 # Working Pliers
 <iframe src="https://giphy.com/embed/ysJ7p5gBbMAyuVxpMP" width="310" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ysJ7p5gBbMAyuVxpMP">via GIPHY</a></p>
