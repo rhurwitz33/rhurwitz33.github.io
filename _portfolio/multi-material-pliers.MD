@@ -35,6 +35,7 @@ The handles and jaws were printed on the Voron 300. The first iteration of rigid
 | Handle length          | 95.3 mm  |
 
 ## Print Settings
+
 |	| Prusa i3    | Voron 300 - 0.6 mm nozzle | Voron 300 - 0.4 mm nozzle |
 |---------------------|-------------|---------------------------|---------------------------|
 | Material            | TPU 95      | PLA                       | PLA                       |
@@ -47,7 +48,10 @@ The handles and jaws were printed on the Voron 300. The first iteration of rigid
 
 
 ## Image Gallery
-<img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierhandles.jpg?raw=true" width="23%"></img> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierjaws.jpg?raw=true" width="23%"></img> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/pliersspring.jpg?raw=true" width="23%"></img> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/pliersiso.jpg?raw=true" width="23%"></img> <img 
+<img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierhandles.jpg?raw=true" width="23%">
+<img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierjaws.jpg?raw=true" width="23%">
+<img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/pliersspring.jpg?raw=true" width="23%">
+<img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/pliersiso.jpg?raw=true" width="23%">
 
 
 ## Working Pliers
