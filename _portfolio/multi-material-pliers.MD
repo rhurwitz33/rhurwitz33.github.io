@@ -8,7 +8,7 @@ header:
 ---
 
 # Applications of Print-in-Place Multi-Material Parts
-Through-hole resistors are challenging to move by hand due to their small size. This project aims to produce multi-material pliers for efficient movement of through-hole resistors. 
+Through-hole resistors are challenging to move by hand due to their small size. This project aims to produce multi-material pliers for efficient movement of through-hole resistors. The pliers must contain a flexible spring component, such that the movement of the handles shears the spring component, closing the plier jaws. 
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a47a05bc57c57b4090?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
@@ -45,6 +45,7 @@ Multi-material pliers were printed with a flexible TPU 95 spring component in th
 <iframe src="https://giphy.com/embed/ysJ7p5gBbMAyuVxpMP" width="310" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ysJ7p5gBbMAyuVxpMP">via GIPHY</a></p>
 
 # Works Cited
-Hauck, B. C., Ruprecht, B. R. & Riley, P. C. Accurate and on-demand chemical sensors: A print-in-place ion mobility spectrometer. Sensors and Actuators B: Chemical 362, 131791 (2022).
-Saan Cern, Y. & Sheng Ze, Y. The Design of a New 3D Print-in-place Soft Four-Legged Robots with Artificial Intelligence. Jurnal Kejuruteraan 35, 717–733 (2023).
+1. Hauck, B. C., Ruprecht, B. R. & Riley, P. C. Accurate and on-demand chemical sensors: A print-in-place ion mobility spectrometer. Sensors and Actuators B: Chemical 362, 131791 (2022).
+
+2. Saan Cern, Y. & Sheng Ze, Y. The Design of a New 3D Print-in-place Soft Four-Legged Robots with Artificial Intelligence. Jurnal Kejuruteraan 35, 717–733 (2023).
 
