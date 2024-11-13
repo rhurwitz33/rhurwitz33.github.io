@@ -17,28 +17,24 @@ header:
 Multi-material pliers were printed with a flexible TPU 95 spring component in the center and rigid PLA handles and jaws for print-in-place rapid prototyping. Dovetail connections were used to easily assemble the handles and jaws with a press fit onto the spring component. The spring component was created with 7.5% rectillinear infill in SuperSlicer. The spring component has 4 perimeter layers to ensure sturdy connections with the handles and jaws.    
 
 # Product Specifications
-Jaw length 60 mm
-Jaw capacity 5.383 mm
-Jaw depth 8 mm 
-Spring component width 31.3 mm
-Handle length 95.3 mm
+| Jaw length             | 60 mm    |
+| Jaw capacity           | 5.383 mm |
+| Jaw depth              | 8 mm     |
+| Spring component width | 31.3 mm  |
+| Handle length          | 95.3 mm  |
+
 
 # Print Settings
-Prusa i3:
-Bottom Solid Layers: 0
-Perimeters count: 4
-Top solid layers: 0
-Base layer height: 0.2 mm
-Fill density: 7.5%
-Sparse fill pattern: Rectilinear
+|                     | Prusa i3    | Voron 300 - 0.6 mm nozzle | Voron 300 - 0.4 mm nozzle |
+|---------------------|-------------|---------------------------|---------------------------|
+| Material            | TPU 95      | PLA                       | PLA                       |
+| Bottom Solid Layers | 0           | 3                         | 3                         |
+| Perimeters count    | 4           | 3                         | 3                         |
+| Top solid layers    | 0           | 3                         | 3                         |
+| Base layer height   | 0.2 mm      | 0.3 mm                    | 0.2 mm                    |
+| Fill density        | 7.5%        | 20%                       | 20%                       |
+| Sparse fill pattern | Rectilinear | Rectilinear               | Rectilinear               |
 
-Voron 300:
-Bottom Solid Layers: 3
-Perimeters Count: 3
-Top solid layers: 3
-Base Layer Height: 0.3 mm
-Fill Density: 20%
-Sparse fill pattern: Rectillinear
 
 # Image Gallery
 ![Multi-Material Pliers Iteration Handles](https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/plierhandles.jpg?raw=true)
