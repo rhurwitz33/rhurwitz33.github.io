@@ -12,7 +12,7 @@ header:
 Top-down modeling is used in computer aided design for multi-component systems, as the user can easily reference the dimensions of other parts by building the components in the same assembly. Components are designed in their exact position within the larger assembly rather than in a separate file, so they can be constrained in the position they were built. With top-down modeling, parameters can be used across components and features are projected into other designs. Top-down modeling was used in this bike phone holder design to achieve precise fits between components. For example, the phone case was designed around the iPhone 13 Pro by offsetting the projected filets. Similarly, the components attach to the bike handle with an offset of 0.2 mm, which was set by projecting the handlebar feature into the relevant sketch. The two components which attach to the handlebar were parametrically modeled, such that adjusting the offset for one component automatically changed the offset for the other component. Top-down modeling was helpful for quickly designing the components of the cylindrical container, rod, phone case, and adapter along the same axis.    
 
 ## CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4a99c39cebedfab3b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a477034caf738f5145?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Bike Phone Holder Design and Assembly
 
