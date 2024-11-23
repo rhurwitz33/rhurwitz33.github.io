@@ -21,7 +21,7 @@ This design relies on a swivel mechanism with compression springs to lock a shaf
 To assemble the bike phone holder, first connect two springs opposite each other on the compartment lid using 6 mm screws. Then, slide the rod in the compartment lid, and screw on the small square adaptor component. Attach the square side of one handle attachment to the cylindrical compartment with two 6 mm screws. Connect the compartment lid to the cylindrical compartment with two 8 mm screws. The phone case attaches to the adaptor component with two 6 mm screws. Finally, the two handle attachments are screwed together to fit onto the handlebar. 
 
 ## Image Gallery
-<img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/BikePhoneHolderfrontreal.jpg?raw=true" width="23%"></img> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/BikePhoneHoldersidemodel.jpg?raw=true" width="23%"></img> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/BikePhoneHolderfrontmodel.jpg?raw=true" width="23%"></img> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/BikePhoneHolderdetail.jpg?raw=true" width="23%"></img> <img 
+<img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/BikePhoneHolderfrontreal.jpg?raw=true" width="23%"> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/BikePhoneHoldersidemodel.jpg?raw=true" width="23%"> <img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/BikePhoneHolderfrontmodel.jpg?raw=true" width="23%"><img src="https://github.com/rhurwitz33/rhurwitz33.github.io/blob/main/assets/img/BikePhoneHolderdetail.jpg?raw=true" width="23%">
 
 
 
