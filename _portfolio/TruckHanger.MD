@@ -8,11 +8,6 @@ header:
 ---
 
 ## Applications of Generative Design
-A discussion on:
-The unique pairing of powder bed fusion and generative design and their
-applications in either aerospace or automotive industries. Please research a
-specific commercial example (not on the slides), where generative design has
-been used to reduce the number of components in an assembly.
 Powder bed fusion is an advantageous method for manufacturing parts for the aerospace industry, as metal powder-printed parts can be made high quality and lightweight. Selectively sintering powder produces dense, dimensionally accurate parts, with post-processing steps and quality control which meet the aerospace industry’s additive manufacturing demands [1]. Generative design optimizes these parts for minimal mass or maximal rigidity, outputting unique geometry based on the forces simulated by the user. For example, generative design was used to optimize a landing gear door bracket and jet engine bracket to save weight in an airplane engine [2]. 
 Previously, researchers have used generative design to save weight or improve rigidity of parts. The pairing of generative design with powder bed fusion also expands the options of lightweight geometries that can be accurately manufactured. As a result, components can be crafted in one piece through generative design without requiring separate rapid prototyping cycles for different parts. GE Aviation used generative design to reduce the number of parts in a jet engine fuel nozzle tip from 20 to one [3]. GE Aviation mass produces metal printed parts for the LEAP engine, reducing weight of the product, which improves its fuel efficiency.
 	
